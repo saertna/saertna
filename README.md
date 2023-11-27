@@ -6,4 +6,4 @@
 
 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J6DYYS5)
 
-I'm currently requesting webstorm for my [obsidian-gamified-pkm project.](https://github.com/saertna/obsidian-gamified-pkm) The Request ID is 23112023/13180144
+I'm currently requesting webstorm for my [open source project: obsidian-gamified-pkm](https://github.com/saertna/obsidian-gamified-pkm) in JetBrains Open Source support program. The Request ID is 23112023/13180144
